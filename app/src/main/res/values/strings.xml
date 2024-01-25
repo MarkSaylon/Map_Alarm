@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Map Alarm</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="distance">Distance(m)</string>
+    <string name="map_setting">Map</string>
+    <string name="set">Set Alarm</string>
+</resources>
